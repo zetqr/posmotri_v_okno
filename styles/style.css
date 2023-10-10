@@ -79,7 +79,7 @@ ol {
 }
 
 li.content__list-item:not(:last-child) {
-  padding-bottom: 34px;
+  padding-bottom: 32px;
 }
 
 .content__video-card {
@@ -94,7 +94,7 @@ li.content__list-item:not(:last-child) {
 
 .content__video-card-thumbnail {
   width: 194px;
-  height: 103px;
+  height: 105px;
   object-fit: cover;
   object-position: center;
 }
