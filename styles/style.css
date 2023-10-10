@@ -95,8 +95,8 @@ li.content__list-item:not(:last-child) {
 .content__video-card-thumbnail {
   width: 194px;
   height: 103px;
-  object-fit: contain;
-  object-position: right;
+  object-fit: cover;
+  object-position: center;
 }
 
 .search-form__fieldset {
